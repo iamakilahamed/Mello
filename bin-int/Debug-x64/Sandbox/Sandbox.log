@@ -1,2 +1,6 @@
 ﻿  SandboxApp.cpp
+C:\Users\akila\Desktop\Mello\Mello\src\Mello\Log.h(18,42): warning C4251: 'Mello::Log::s_CoreLogger': class 'std::shared_ptr<spdlog::logger>' needs to have dll-interface to be used by clients of class 'Mello::Log'
+C:\Users\akila\Desktop\Mello\Mello\vendor\spdlog\include\spdlog\details\registry.h(34,31): message : see declaration of 'std::shared_ptr<spdlog::logger>'
+C:\Users\akila\Desktop\Mello\Mello\src\Mello\Log.h(19,42): warning C4251: 'Mello::Log::s_ClientLogger': class 'std::shared_ptr<spdlog::logger>' needs to have dll-interface to be used by clients of class 'Mello::Log'
+C:\Users\akila\Desktop\Mello\Mello\vendor\spdlog\include\spdlog\details\registry.h(34,31): message : see declaration of 'std::shared_ptr<spdlog::logger>'
   Sandbox.vcxproj -> C:\Users\akila\Desktop\Mello\bin\Debug-x64\Sandbox\Sandbox.exe
