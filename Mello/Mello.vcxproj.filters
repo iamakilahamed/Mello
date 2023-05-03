@@ -19,6 +19,18 @@
     <ClInclude Include="src\Mello\Log.h">
       <Filter>Mello</Filter>
     </ClInclude>
+    <ClInclude Include="src\Mello\Events\Event.h">
+      <Filter>Mello</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Mello\Events\ApplicationEvent.h">
+      <Filter>Mello</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Mello\Events\KeyEvent.h">
+      <Filter>Mello</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Mello\Events\MouseEvent.h">
+      <Filter>Mello</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Mello\Application.cpp">

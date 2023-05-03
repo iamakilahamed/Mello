@@ -150,6 +150,10 @@
     <ClInclude Include="src\Mello\Application.h" />
     <ClInclude Include="src\Mello\Core.h" />
     <ClInclude Include="src\Mello\EntryPoint.h" />
+    <ClInclude Include="src\Mello\Events\ApplicationEvent.h" />
+    <ClInclude Include="src\Mello\Events\Event.h" />
+    <ClInclude Include="src\Mello\Events\KeyEvent.h" />
+    <ClInclude Include="src\Mello\Events\MouseEvent.h" />
     <ClInclude Include="src\Mello\Log.h" />
   </ItemGroup>
   <ItemGroup>
